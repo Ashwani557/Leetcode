@@ -1,7 +1,9 @@
+
+
 public class MonotonicArray {
     
 }
-class Solution {
+ 
     public boolean isMonotonic(int[] nums) {
         boolean increasing = true;
         boolean decreasing = true;
@@ -16,5 +18,23 @@ class Solution {
         }
 
         return increasing || decreasing;
-    }
+  
 }
+
+
+// class Solution {
+//     public boolean isMonotonic(int[] nums) {
+//         boolean flagp = true;
+//         boolean flagn = true;
+//         for(int i = 0; i< nums.length -1;i++){
+//             if(nums[i]<nums[i+1]){
+//                 flagp = false;
+//             }else if(nums[i]>nums[i+1]){
+//                 flagn = false;
+//             }
+//         }
+//         return flagp || flagn;
+
+        
+//     }
+// }
