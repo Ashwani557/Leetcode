@@ -73,3 +73,15 @@ Suggestions, optimizations, and discussions are always welcome.
 All solutions are written by **Ashwani Pandey** for educational and practice purposes only.
 
 Happy Coding 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ashwani557/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ashwani557/Leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
