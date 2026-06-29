@@ -82,6 +82,7 @@ Happy Coding 🚀
 | [0001-two-sum](https://github.com/Ashwani557/Leetcode/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/Ashwani557/Leetcode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashwani557/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1901-find-a-peak-element-ii](https://github.com/Ashwani557/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2032-two-out-of-three](https://github.com/Ashwani557/Leetcode/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -120,4 +121,9 @@ Happy Coding 🚀
 | ------- |
 | [0162-find-peak-element](https://github.com/Ashwani557/Leetcode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashwani557/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1901-find-a-peak-element-ii](https://github.com/Ashwani557/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+## Matrix
+|  |
+| ------- |
+| [1901-find-a-peak-element-ii](https://github.com/Ashwani557/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
