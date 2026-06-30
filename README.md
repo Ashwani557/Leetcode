@@ -86,6 +86,7 @@ Happy Coding 🚀
 | [2032-two-out-of-three](https://github.com/Ashwani557/Leetcode/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Ashwani557/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Ashwani557/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Enumeration
 |  |
 | ------- |
