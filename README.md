@@ -123,6 +123,7 @@ Happy Coding 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Ashwani557/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ashwani557/Leetcode/tree/master/0191-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/Ashwani557/Leetcode/tree/master/2032-two-out-of-three) |
@@ -143,5 +144,6 @@ Happy Coding 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Ashwani557/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ashwani557/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
