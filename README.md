@@ -100,12 +100,14 @@ Happy Coding 🚀
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwani557/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Ashwani557/Leetcode/tree/master/0344-reverse-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwani557/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwani557/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Ashwani557/Leetcode/tree/master/0344-reverse-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashwani557/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwani557/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Recursion
 |  |
 | ------- |
@@ -146,4 +148,12 @@ Happy Coding 🚀
 | ------- |
 | [0190-reverse-bits](https://github.com/Ashwani557/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ashwani557/Leetcode/tree/master/0191-number-of-1-bits) |
+## Stack
+|  |
+| ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwani557/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Greedy
+|  |
+| ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwani557/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
