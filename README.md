@@ -86,6 +86,7 @@ Happy Coding 🚀
 | [1901-find-a-peak-element-ii](https://github.com/Ashwani557/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2032-two-out-of-three](https://github.com/Ashwani557/Leetcode/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashwani557/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Ashwani557/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2951-find-the-peaks](https://github.com/Ashwani557/Leetcode/tree/master/2951-find-the-peaks) |
@@ -109,6 +110,7 @@ Happy Coding 🚀
 | [0344-reverse-string](https://github.com/Ashwani557/Leetcode/tree/master/0344-reverse-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashwani557/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwani557/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashwani557/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Recursion
 |  |
 | ------- |
