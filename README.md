@@ -152,6 +152,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ashwani557/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -169,4 +170,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashwani557/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ashwani557/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
