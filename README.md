@@ -134,6 +134,7 @@ Happy Coding 🚀
 | ------- |
 | [0190-reverse-bits](https://github.com/Ashwani557/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ashwani557/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/Ashwani557/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/Ashwani557/Leetcode/tree/master/2032-two-out-of-three) |
 ## Binary Search
@@ -153,6 +154,7 @@ Happy Coding 🚀
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Ashwani557/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashwani557/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
