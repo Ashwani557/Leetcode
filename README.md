@@ -88,6 +88,7 @@ Happy Coding 🚀
 | [1331-rank-transform-of-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashwani557/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1854-maximum-population-year](https://github.com/Ashwani557/Leetcode/tree/master/1854-maximum-population-year) |
 | [1901-find-a-peak-element-ii](https://github.com/Ashwani557/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2032-two-out-of-three](https://github.com/Ashwani557/Leetcode/tree/master/2032-two-out-of-three) |
@@ -130,6 +131,7 @@ Happy Coding 🚀
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashwani557/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Ashwani557/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashwani557/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -196,4 +198,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/Ashwani557/Leetcode/tree/master/1854-maximum-population-year) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
