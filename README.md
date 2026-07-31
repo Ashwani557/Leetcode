@@ -108,6 +108,7 @@ Happy Coding 🚀
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashwani557/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2032-two-out-of-three](https://github.com/Ashwani557/Leetcode/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani557/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Happy Coding 🚀
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashwani557/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwani557/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashwani557/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani557/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashwani557/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
 |  |
@@ -135,6 +137,7 @@ Happy Coding 🚀
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Ashwani557/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani557/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashwani557/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashwani557/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
@@ -186,12 +189,14 @@ Happy Coding 🚀
 | ------- |
 | [0330-patching-array](https://github.com/Ashwani557/Leetcode/tree/master/0330-patching-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwani557/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani557/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1854-maximum-population-year](https://github.com/Ashwani557/Leetcode/tree/master/1854-maximum-population-year) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashwani557/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani557/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Number Theory
 |  |
 | ------- |
