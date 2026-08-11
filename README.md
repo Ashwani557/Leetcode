@@ -101,6 +101,7 @@ Happy Coding 🚀
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashwani557/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Ashwani557/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2951-find-the-peaks](https://github.com/Ashwani557/Leetcode/tree/master/2951-find-the-peaks) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashwani557/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/Ashwani557/Leetcode/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/Ashwani557/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -113,6 +114,7 @@ Happy Coding 🚀
 | [2032-two-out-of-three](https://github.com/Ashwani557/Leetcode/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ashwani557/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashwani557/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani557/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashwani557/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3731-find-missing-elements](https://github.com/Ashwani557/Leetcode/tree/master/3731-find-missing-elements) |
@@ -146,6 +148,7 @@ Happy Coding 🚀
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ashwani557/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Ashwani557/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashwani557/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani557/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/Ashwani557/Leetcode/tree/master/3024-type-of-triangle) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashwani557/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
