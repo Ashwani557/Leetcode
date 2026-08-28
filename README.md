@@ -81,6 +81,7 @@ Happy Coding 🚀
 | ------- |
 | [0001-two-sum](https://github.com/Ashwani557/Leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashwani557/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Ashwani557/Leetcode/tree/master/0041-first-missing-positive) |
 | [0118-pascals-triangle](https://github.com/Ashwani557/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ashwani557/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Ashwani557/Leetcode/tree/master/0120-triangle) |
@@ -112,6 +113,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashwani557/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Ashwani557/Leetcode/tree/master/0041-first-missing-positive) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashwani557/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
