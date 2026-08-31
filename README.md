@@ -94,6 +94,7 @@ Happy Coding 🚀
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashwani557/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Ashwani557/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ashwani557/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/Ashwani557/Leetcode/tree/master/1854-maximum-population-year) |
 | [1901-find-a-peak-element-ii](https://github.com/Ashwani557/Leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -145,6 +146,7 @@ Happy Coding 🚀
 ## Recursion
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Ashwani557/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -196,6 +198,7 @@ Happy Coding 🚀
 | [0371-sum-of-two-integers](https://github.com/Ashwani557/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashwani557/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Ashwani557/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Ashwani557/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3024-type-of-triangle](https://github.com/Ashwani557/Leetcode/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashwani557/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -259,4 +262,12 @@ Happy Coding 🚀
 | [0119-pascals-triangle-ii](https://github.com/Ashwani557/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Ashwani557/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashwani557/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Ashwani557/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Ashwani557/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
