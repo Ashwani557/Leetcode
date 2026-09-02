@@ -110,6 +110,7 @@ Happy Coding 🚀
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashwani557/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/Ashwani557/Leetcode/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/Ashwani557/Leetcode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ashwani557/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [4024-nearest-available-drone](https://github.com/Ashwani557/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Hash Table
 |  |
@@ -207,6 +208,7 @@ Happy Coding 🚀
 | [3536-maximum-product-of-two-digits](https://github.com/Ashwani557/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ashwani557/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashwani557/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ashwani557/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
