@@ -110,6 +110,7 @@ Happy Coding 🚀
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashwani557/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/Ashwani557/Leetcode/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/Ashwani557/Leetcode/tree/master/3731-find-missing-elements) |
+| [4024-nearest-available-drone](https://github.com/Ashwani557/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Happy Coding 🚀
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2951-find-the-peaks](https://github.com/Ashwani557/Leetcode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashwani557/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4024-nearest-available-drone](https://github.com/Ashwani557/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Bit Manipulation
 |  |
 | ------- |
