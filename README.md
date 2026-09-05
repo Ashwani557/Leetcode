@@ -93,6 +93,7 @@ Happy Coding 🚀
 | [1331-rank-transform-of-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashwani557/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ashwani557/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ashwani557/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ashwani557/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -245,6 +246,7 @@ Happy Coding 🚀
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ashwani557/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ashwani557/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/Ashwani557/Leetcode/tree/master/1854-maximum-population-year) |
 | [3903-smallest-stable-index-i](https://github.com/Ashwani557/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -259,6 +261,7 @@ Happy Coding 🚀
 ## Sliding Window
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ashwani557/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ashwani557/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Polygons
 |  |
