@@ -123,6 +123,7 @@ Happy Coding 🚀
 | [1331-rank-transform-of-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashwani557/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashwani557/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2032-two-out-of-three](https://github.com/Ashwani557/Leetcode/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ashwani557/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -143,6 +144,7 @@ Happy Coding 🚀
 | [0151-reverse-words-in-a-string](https://github.com/Ashwani557/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Ashwani557/Leetcode/tree/master/0344-reverse-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashwani557/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashwani557/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwani557/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashwani557/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ashwani557/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -236,6 +238,7 @@ Happy Coding 🚀
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1854-maximum-population-year](https://github.com/Ashwani557/Leetcode/tree/master/1854-maximum-population-year) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashwani557/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ashwani557/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashwani557/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani557/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -264,6 +267,7 @@ Happy Coding 🚀
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ashwani557/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ashwani557/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashwani557/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ashwani557/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Polygons
 |  |
