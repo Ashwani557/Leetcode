@@ -145,6 +145,7 @@ Happy Coding 🚀
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashwani557/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwani557/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashwani557/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ashwani557/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani557/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashwani557/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashwani557/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -263,6 +264,7 @@ Happy Coding 🚀
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ashwani557/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ashwani557/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ashwani557/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Polygons
 |  |
 | ------- |
