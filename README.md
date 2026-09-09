@@ -144,6 +144,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Ashwani557/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwani557/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Ashwani557/Leetcode/tree/master/0344-reverse-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashwani557/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -231,6 +232,7 @@ Happy Coding 🚀
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0020-valid-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwani557/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
@@ -297,4 +299,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ashwani557/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
