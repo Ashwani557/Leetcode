@@ -129,6 +129,7 @@ Happy Coding 🚀
 | [2032-two-out-of-three](https://github.com/Ashwani557/Leetcode/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ashwani557/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ashwani557/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashwani557/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani557/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashwani557/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -151,6 +152,7 @@ Happy Coding 🚀
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashwani557/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwani557/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashwani557/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ashwani557/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ashwani557/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani557/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashwani557/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -251,6 +253,7 @@ Happy Coding 🚀
 | [1854-maximum-population-year](https://github.com/Ashwani557/Leetcode/tree/master/1854-maximum-population-year) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashwani557/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ashwani557/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ashwani557/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashwani557/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani557/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashwani557/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
