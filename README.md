@@ -213,6 +213,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Ashwani557/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0507-perfect-number](https://github.com/Ashwani557/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashwani557/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Ashwani557/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1486-xor-operation-in-an-array) |
