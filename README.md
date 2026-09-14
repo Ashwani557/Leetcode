@@ -216,6 +216,7 @@ Happy Coding 🚀
 | [0507-perfect-number](https://github.com/Ashwani557/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashwani557/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Ashwani557/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/Ashwani557/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ashwani557/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Ashwani557/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -308,4 +309,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Ashwani557/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
