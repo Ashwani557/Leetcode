@@ -317,4 +317,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ashwani557/Leetcode/tree/master/0836-rectangle-overlap) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Ashwani557/Leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
