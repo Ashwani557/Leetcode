@@ -118,6 +118,7 @@ Happy Coding 🚀
 | [3903-smallest-stable-index-i](https://github.com/Ashwani557/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ashwani557/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [4024-nearest-available-drone](https://github.com/Ashwani557/Leetcode/tree/master/4024-nearest-available-drone) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Ashwani557/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@ Happy Coding 🚀
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashwani557/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Ashwani557/Leetcode/tree/master/3731-find-missing-elements) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Ashwani557/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Two Pointers
 |  |
 | ------- |
