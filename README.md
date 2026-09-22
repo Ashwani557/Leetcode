@@ -168,6 +168,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ashwani557/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Ashwani557/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ashwani557/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -332,6 +333,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ashwani557/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Ashwani557/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ashwani557/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashwani557/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
