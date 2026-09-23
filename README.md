@@ -197,6 +197,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Ashwani557/Leetcode/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [2951-find-the-peaks](https://github.com/Ashwani557/Leetcode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashwani557/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -209,6 +210,7 @@ Happy Coding 🚀
 | [0371-sum-of-two-integers](https://github.com/Ashwani557/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/Ashwani557/Leetcode/tree/master/2032-two-out-of-three) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Ashwani557/Leetcode/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -350,4 +352,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ashwani557/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Brainteaser
+|  |
+| ------- |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Ashwani557/Leetcode/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
