@@ -143,6 +143,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ashwani557/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0061-rotate-list](https://github.com/Ashwani557/Leetcode/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwani557/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Ashwani557/Leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashwani557/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -336,6 +337,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ashwani557/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Ashwani557/Leetcode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Ashwani557/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ashwani557/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashwani557/Leetcode/tree/master/0876-middle-of-the-linked-list) |
