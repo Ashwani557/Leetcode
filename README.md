@@ -95,6 +95,7 @@ Happy Coding 🚀
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ashwani557/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashwani557/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ashwani557/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ashwani557/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/Ashwani557/Leetcode/tree/master/1854-maximum-population-year) |
@@ -127,6 +128,7 @@ Happy Coding 🚀
 | [0041-first-missing-positive](https://github.com/Ashwani557/Leetcode/tree/master/0041-first-missing-positive) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashwani557/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashwani557/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashwani557/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2032-two-out-of-three](https://github.com/Ashwani557/Leetcode/tree/master/2032-two-out-of-three) |
@@ -214,6 +216,7 @@ Happy Coding 🚀
 | [0162-find-peak-element](https://github.com/Ashwani557/Leetcode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashwani557/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashwani557/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashwani557/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ashwani557/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Ashwani557/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Ashwani557/Leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
@@ -283,6 +286,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ashwani557/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashwani557/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ashwani557/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/Ashwani557/Leetcode/tree/master/1854-maximum-population-year) |
 | [3903-smallest-stable-index-i](https://github.com/Ashwani557/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -299,6 +303,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ashwani557/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashwani557/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ashwani557/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashwani557/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ashwani557/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
