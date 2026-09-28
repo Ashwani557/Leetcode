@@ -164,6 +164,7 @@ Happy Coding 🚀
 | [0344-reverse-string](https://github.com/Ashwani557/Leetcode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Ashwani557/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/Ashwani557/Leetcode/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashwani557/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashwani557/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwani557/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -268,6 +269,7 @@ Happy Coding 🚀
 | [0020-valid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/Ashwani557/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/Ashwani557/Leetcode/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwani557/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
@@ -346,6 +348,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
 | ------- |
