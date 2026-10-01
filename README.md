@@ -123,6 +123,7 @@ Happy Coding 🚀
 | [3904-smallest-stable-index-ii](https://github.com/Ashwani557/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [4024-nearest-available-drone](https://github.com/Ashwani557/Leetcode/tree/master/4024-nearest-available-drone) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Ashwani557/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashwani557/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@ Happy Coding 🚀
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Ashwani557/Leetcode/tree/master/3731-find-missing-elements) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Ashwani557/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashwani557/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,6 +204,7 @@ Happy Coding 🚀
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashwani557/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashwani557/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Ashwani557/Leetcode/tree/master/3731-find-missing-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashwani557/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -295,6 +298,7 @@ Happy Coding 🚀
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashwani557/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani557/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashwani557/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashwani557/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Number Theory
 |  |
 | ------- |
@@ -312,6 +316,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashwani557/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting Sort
 |  |
 | ------- |
@@ -347,6 +352,7 @@ Happy Coding 🚀
 | [0844-backspace-string-compare](https://github.com/Ashwani557/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ashwani557/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ashwani557/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashwani557/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -379,4 +385,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ashwani557/Leetcode/tree/master/0148-sort-list) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashwani557/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
