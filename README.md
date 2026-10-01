@@ -148,6 +148,7 @@ Happy Coding 🚀
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ashwani557/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/Ashwani557/Leetcode/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/Ashwani557/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwani557/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Ashwani557/Leetcode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Ashwani557/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -186,6 +187,7 @@ Happy Coding 🚀
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ashwani557/Leetcode/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashwani557/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -261,6 +263,7 @@ Happy Coding 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ashwani557/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Ashwani557/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ashwani557/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Stack
@@ -360,6 +363,7 @@ Happy Coding 🚀
 | [0021-merge-two-sorted-lists](https://github.com/Ashwani557/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Ashwani557/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ashwani557/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/Ashwani557/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Ashwani557/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ashwani557/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashwani557/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -371,4 +375,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Ashwani557/Leetcode/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ashwani557/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
