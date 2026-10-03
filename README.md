@@ -125,6 +125,7 @@ Happy Coding 🚀
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Ashwani557/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashwani557/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Ashwani557/Leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Ashwani557/Leetcode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ Happy Coding 🚀
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Ashwani557/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashwani557/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Ashwani557/Leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Ashwani557/Leetcode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -334,6 +336,7 @@ Happy Coding 🚀
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ashwani557/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashwani557/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ashwani557/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Ashwani557/Leetcode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Polygons
 |  |
 | ------- |
