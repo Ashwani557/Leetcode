@@ -124,6 +124,7 @@ Happy Coding 🚀
 | [4024-nearest-available-drone](https://github.com/Ashwani557/Leetcode/tree/master/4024-nearest-available-drone) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Ashwani557/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashwani557/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Ashwani557/Leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ Happy Coding 🚀
 | [3731-find-missing-elements](https://github.com/Ashwani557/Leetcode/tree/master/3731-find-missing-elements) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Ashwani557/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashwani557/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Ashwani557/Leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -301,6 +303,7 @@ Happy Coding 🚀
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani557/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashwani557/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashwani557/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Ashwani557/Leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Number Theory
 |  |
 | ------- |
