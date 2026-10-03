@@ -163,6 +163,7 @@ Happy Coding 🚀
 | [0005-longest-palindromic-substring](https://github.com/Ashwani557/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Ashwani557/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwani557/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Ashwani557/Leetcode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Ashwani557/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -273,6 +274,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/Ashwani557/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/Ashwani557/Leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -337,6 +339,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ashwani557/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/Ashwani557/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ashwani557/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Ashwani557/Leetcode/tree/master/0120-triangle) |
@@ -357,6 +360,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
