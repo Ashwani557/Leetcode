@@ -170,6 +170,7 @@ Happy Coding 🚀
 | [0032-longest-valid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwani557/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Ashwani557/Leetcode/tree/master/0344-reverse-string) |
+| [0678-valid-parenthesis-string](https://github.com/Ashwani557/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Ashwani557/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/Ashwani557/Leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -279,6 +280,7 @@ Happy Coding 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ashwani557/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Ashwani557/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/Ashwani557/Leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -288,6 +290,7 @@ Happy Coding 🚀
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashwani557/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0330-patching-array](https://github.com/Ashwani557/Leetcode/tree/master/0330-patching-array) |
+| [0678-valid-parenthesis-string](https://github.com/Ashwani557/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ashwani557/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwani557/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashwani557/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -350,6 +353,7 @@ Happy Coding 🚀
 | [0119-pascals-triangle-ii](https://github.com/Ashwani557/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Ashwani557/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashwani557/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Ashwani557/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [3524-find-x-value-of-array-i](https://github.com/Ashwani557/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Queue
 |  |
@@ -367,6 +371,7 @@ Happy Coding 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ashwani557/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
