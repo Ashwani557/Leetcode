@@ -132,6 +132,7 @@ Happy Coding 🚀
 | ------- |
 | [0001-two-sum](https://github.com/Ashwani557/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Ashwani557/Leetcode/tree/master/0041-first-missing-positive) |
+| [0142-linked-list-cycle-ii](https://github.com/Ashwani557/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashwani557/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -155,6 +156,7 @@ Happy Coding 🚀
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ashwani557/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/Ashwani557/Leetcode/tree/master/0061-rotate-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Ashwani557/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Ashwani557/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwani557/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Ashwani557/Leetcode/tree/master/0344-reverse-string) |
@@ -389,6 +391,7 @@ Happy Coding 🚀
 | [0021-merge-two-sorted-lists](https://github.com/Ashwani557/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Ashwani557/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ashwani557/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Ashwani557/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Ashwani557/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Ashwani557/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ashwani557/Leetcode/tree/master/0328-odd-even-linked-list) |
@@ -409,4 +412,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashwani557/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Ashwani557/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
