@@ -192,6 +192,7 @@ Happy Coding 🚀
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ashwani557/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ashwani557/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Ashwani557/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ashwani557/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -254,6 +255,7 @@ Happy Coding 🚀
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ashwani557/Leetcode/tree/master/0002-add-two-numbers) |
 | [0371-sum-of-two-integers](https://github.com/Ashwani557/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/Ashwani557/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashwani557/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -392,6 +394,7 @@ Happy Coding 🚀
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ashwani557/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ashwani557/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Ashwani557/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ashwani557/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
