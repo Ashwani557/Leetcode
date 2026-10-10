@@ -1,17 +1,42 @@
 class Solution {
     public int maximumCount(int[] nums) {
-        int pcount =0;
-        int ncount =0;
-        for(int i =0;i<nums.length;i++){
-            if(nums[i]>0){
-                pcount++;
-            }
-            else if(nums[i]<0){
-                ncount++;
-            }
+        int low = 0;
+        int high = nums.length - 1;
 
+        int p = nums.length;
+        int n = nums.length;
+
+        // Find first positive number
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (nums[mid] > 0) {
+                p = mid;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
+            }
         }
-        return Math.max(pcount,ncount);
-        
+
+        int pcount = nums.length - p;
+
+        low = 0;
+        high = nums.length - 1;
+
+        // Find first non-negative number
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (nums[mid] >= 0) {
+                n = mid;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
+            }
+        }
+
+        int ncount = n;
+
+        return Math.max(pcount, ncount);
     }
 }
