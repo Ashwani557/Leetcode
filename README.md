@@ -114,6 +114,7 @@ Happy Coding 🚀
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashwani557/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2706-buy-two-chocolates](https://github.com/Ashwani557/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Ashwani557/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ashwani557/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Ashwani557/Leetcode/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashwani557/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/Ashwani557/Leetcode/tree/master/3024-type-of-triangle) |
@@ -230,6 +231,7 @@ Happy Coding 🚀
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Ashwani557/Leetcode/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ashwani557/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Ashwani557/Leetcode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashwani557/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
