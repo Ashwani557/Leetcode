@@ -91,6 +91,7 @@ Happy Coding 🚀
 | [0238-product-of-array-except-self](https://github.com/Ashwani557/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0330-patching-array](https://github.com/Ashwani557/Leetcode/tree/master/0330-patching-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashwani557/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0665-non-decreasing-array](https://github.com/Ashwani557/Leetcode/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/Ashwani557/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashwani557/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1331-rank-transform-of-an-array) |
