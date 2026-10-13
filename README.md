@@ -94,6 +94,7 @@ Happy Coding 🚀
 | [0665-non-decreasing-array](https://github.com/Ashwani557/Leetcode/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/Ashwani557/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashwani557/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1089-duplicate-zeros](https://github.com/Ashwani557/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashwani557/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -172,6 +173,7 @@ Happy Coding 🚀
 | [0844-backspace-string-compare](https://github.com/Ashwani557/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashwani557/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Ashwani557/Leetcode/tree/master/0917-reverse-only-letters) |
+| [1089-duplicate-zeros](https://github.com/Ashwani557/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwani557/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashwani557/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Ashwani557/Leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
