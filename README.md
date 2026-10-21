@@ -94,6 +94,7 @@ Happy Coding 🚀
 | [0665-non-decreasing-array](https://github.com/Ashwani557/Leetcode/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/Ashwani557/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashwani557/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Ashwani557/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1089-duplicate-zeros](https://github.com/Ashwani557/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashwani557/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -265,6 +266,7 @@ Happy Coding 🚀
 | [0162-find-peak-element](https://github.com/Ashwani557/Leetcode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Ashwani557/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashwani557/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Ashwani557/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashwani557/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashwani557/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ashwani557/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
