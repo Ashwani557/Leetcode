@@ -292,6 +292,7 @@ Happy Coding 🚀
 | [1486-xor-operation-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ashwani557/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Ashwani557/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Ashwani557/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ashwani557/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3024-type-of-triangle](https://github.com/Ashwani557/Leetcode/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashwani557/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -424,6 +425,7 @@ Happy Coding 🚀
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ashwani557/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ashwani557/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Ashwani557/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Linked List
 |  |
 | ------- |
