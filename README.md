@@ -283,6 +283,7 @@ Happy Coding 🚀
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashwani557/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ashwani557/Leetcode/tree/master/0009-palindrome-number) |
+| [0319-bulb-switcher](https://github.com/Ashwani557/Leetcode/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Ashwani557/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/Ashwani557/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashwani557/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -446,6 +447,7 @@ Happy Coding 🚀
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Ashwani557/Leetcode/tree/master/0319-bulb-switcher) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Ashwani557/Leetcode/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 ## Merge Sort
 |  |
