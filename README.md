@@ -90,6 +90,7 @@ Happy Coding 🚀
 | [0162-find-peak-element](https://github.com/Ashwani557/Leetcode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/Ashwani557/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0330-patching-array](https://github.com/Ashwani557/Leetcode/tree/master/0330-patching-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ashwani557/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashwani557/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0665-non-decreasing-array](https://github.com/Ashwani557/Leetcode/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/Ashwani557/Leetcode/tree/master/0704-binary-search) |
@@ -285,6 +286,7 @@ Happy Coding 🚀
 | [0009-palindrome-number](https://github.com/Ashwani557/Leetcode/tree/master/0009-palindrome-number) |
 | [0319-bulb-switcher](https://github.com/Ashwani557/Leetcode/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Ashwani557/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ashwani557/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/Ashwani557/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashwani557/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Ashwani557/Leetcode/tree/master/0728-self-dividing-numbers) |
