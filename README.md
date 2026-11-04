@@ -128,6 +128,7 @@ Happy Coding 🚀
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashwani557/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/Ashwani557/Leetcode/tree/master/3024-type-of-triangle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ashwani557/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Ashwani557/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashwani557/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Ashwani557/Leetcode/tree/master/3731-find-missing-elements) |
@@ -160,6 +161,7 @@ Happy Coding 🚀
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani557/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashwani557/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ashwani557/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3731-find-missing-elements](https://github.com/Ashwani557/Leetcode/tree/master/3731-find-missing-elements) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Ashwani557/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashwani557/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -305,6 +307,7 @@ Happy Coding 🚀
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ashwani557/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3024-type-of-triangle](https://github.com/Ashwani557/Leetcode/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashwani557/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ashwani557/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Ashwani557/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashwani557/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashwani557/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -379,6 +382,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ashwani557/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashwani557/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting Sort
 |  |
@@ -392,6 +396,7 @@ Happy Coding 🚀
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ashwani557/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashwani557/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ashwani557/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ashwani557/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Ashwani557/Leetcode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Polygons
 |  |
@@ -407,6 +412,7 @@ Happy Coding 🚀
 | [0120-triangle](https://github.com/Ashwani557/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashwani557/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Ashwani557/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ashwani557/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Ashwani557/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Queue
 |  |
