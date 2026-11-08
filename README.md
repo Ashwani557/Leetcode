@@ -99,6 +99,7 @@ Happy Coding 🚀
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashwani557/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ashwani557/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1089-duplicate-zeros](https://github.com/Ashwani557/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1267-count-servers-that-communicate](https://github.com/Ashwani557/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashwani557/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashwani557/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -289,6 +290,7 @@ Happy Coding 🚀
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Ashwani557/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashwani557/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Ashwani557/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Math
@@ -360,6 +362,7 @@ Happy Coding 🚀
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Ashwani557/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1854-maximum-population-year](https://github.com/Ashwani557/Leetcode/tree/master/1854-maximum-population-year) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashwani557/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -494,4 +497,13 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Ashwani557/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1267-count-servers-that-communicate](https://github.com/Ashwani557/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Ashwani557/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Ashwani557/Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
