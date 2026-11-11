@@ -223,6 +223,7 @@ Happy Coding 🚀
 | [3498-reverse-degree-of-a-string](https://github.com/Ashwani557/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashwani557/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Ashwani557/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Ashwani557/Leetcode/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Recursion
 |  |
 | ------- |
@@ -334,6 +335,7 @@ Happy Coding 🚀
 | [0148-sort-list](https://github.com/Ashwani557/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Ashwani557/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ashwani557/Leetcode/tree/master/0191-number-of-1-bits) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Ashwani557/Leetcode/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -389,6 +391,7 @@ Happy Coding 🚀
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashwani557/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ashwani557/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/Ashwani557/Leetcode/tree/master/1854-maximum-population-year) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Ashwani557/Leetcode/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [3903-smallest-stable-index-i](https://github.com/Ashwani557/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ashwani557/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Heap (Priority Queue)
