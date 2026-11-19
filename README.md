@@ -125,6 +125,7 @@ Happy Coding 🚀
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Ashwani557/Leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Ashwani557/Leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashwani557/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ashwani557/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/Ashwani557/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Ashwani557/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ashwani557/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -246,6 +247,7 @@ Happy Coding 🚀
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ashwani557/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashwani557/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Ashwani557/Leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ashwani557/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/Ashwani557/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Ashwani557/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashwani557/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -361,6 +363,7 @@ Happy Coding 🚀
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ashwani557/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwani557/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashwani557/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ashwani557/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/Ashwani557/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ashwani557/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani557/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
